@@ -1,8 +1,8 @@
 # Chamada Pública nº 014/2023 - “IpeaDATA-lab”.
 
-#Candidatos 3, 4, e 5 - Bolsa de Incentivo à Pesquisa II - Superior Completo
+# Candidatos 3, 4, e 5 - Bolsa de Incentivo à Pesquisa II - Superior Completo
 
-#POR DENTRO DA PNAD CONTÍNUA
+# POR DENTRO DA PNAD CONTÍNUA
 
 Cap. 11.4 Exercicio 1 Calcule todas as medidas de subutilização da força de trabalho por Regiões
 Geográficas montando uma série de dados trimestrais para os anos de 2019 e 2020.
